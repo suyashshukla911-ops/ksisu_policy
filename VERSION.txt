@@ -1,0 +1,15 @@
+KSISU Skillathon 2026 - Judge Package
+Version: V18 policy-to-evidence refinement
+Date: 2026-10-18
+
+Scope of this freeze:
+- V17 policy register retained; misleading district fallback citation removed
+- District aliases loaded from clean/district_aliases.csv
+- Policy outputs are fully rooted under the run argument; model run_summary.json is not mutated
+- Evidence-level name and model gate are separated in public policy actions
+- main_evidence_limitation replaces the unmeasured-driver wording
+- action_basis distinguishes KSISU rule from policy-source channel
+- DSDP benchmark reports per-district benchmark/model-P50 ratios and exact permutation p-value with n
+- Source manifest/page/hash integrity checks added; policy source PDFs bundled for audit
+- Mapping-quality audit reports district-specific clauses vs explicit generic fallbacks
+- RUN_ALL still verifies ITI counts first and runs the policy layer last
