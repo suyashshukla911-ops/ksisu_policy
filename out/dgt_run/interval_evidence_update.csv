@@ -1,5 +1,0 @@
-district,nco_group_2digit,before_basis,after_basis,before_width,after_width,interval_width_change_pct,evidence_effect,after_ratio_p10,after_ratio_median,after_ratio_p90,policy_call_allowed
-Tumakuru,72,district-proxy,partial-observed-floor,2.267995187129147,2.243430765279469,1.08308968154256,NARROWER,0.8781538021667583,1.6869186544869734,3.1215845674462273,False
-Tumakuru,74,district-proxy,partial-observed-floor,1.7549962757546966,1.6974350789307229,3.279847234958995,NARROWER,0.6951543808510284,1.3113273534558112,2.3925894597817514,False
-Kalaburagi,72,district-proxy,partial-observed-floor,1.9485738936739199,1.921161975519734,1.40676821357297,NARROWER,0.6572348070572104,1.3169084297388083,2.5783967825769443,False
-Kalaburagi,74,district-proxy,partial-observed-floor,1.5078250367714854,1.4789751020052275,1.9133476406540222,NARROWER,0.5128780535318368,1.0210946826914,1.9918531555370644,False
